@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h3{
+    font-size: 20px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding: 150px;
+}
+.namecolor{
+    color: #ff1a75;
+}
+p{
+    color: dimgrey;
+}
+.link-button:hover{
+    background: #ff1a75;
+}
+.link-button{
+    color: white;
+    background-image: linear-gradient(45deg, #ff1a75, white);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-weight: 700;
+}
+.header-bg{
+    background-image: url("images/header-bg.png");
+}
+.bio-bg{
+    background-image: url("images/biography-bg.png");
+}
+.work-bg{
+    background-image: url("images/latest-work-bg.png");
+}
+.one-third-width img{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#experience-bg{
+    background-image: url("images/latest-work-bg.png");
+}
+#experience-areahead{
+    margin-left: 0px;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px #e9576f;
+    height: 82%;
+    width: 42%;
+    border-radius: 5px;
+    
+}
+#fullstack-h2{
+    font-size: 33px;
+}
+#babyweb-h2{
+    font-size: 33px;
+}
+.esperience-h3{
+    color: #ff1a75;
+}
+#experience-fullstack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, white, #ff1a75);
+    border-image-slice: 1;
+}
+#experience-babyweb:hover{
+    border-right: 7px solid;
+    border-image: linear-gradient(180deg,white, #ff1a75);
+    border-image-slice: 1;
+    
+}
+.textcenter{
+    text-align: center;
+    font-size: 45px;
+}
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+}
+.client-h2style{
+    text-align: center;
+    font-size: 22px;
+}
+#client-h4ceo{
+    text-align: center;
+    color: dimgrey;
+}
+
+#client-p{
+    color: black;
+    text-align: center;
+    display: block;
+}
+#client-emailbox{
+    background-color: #ff1a75;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+#client-h4leave-a-message{
+    text-align: center;
+    color: white;
+    font-weight: normal;
+}
+#client-h3emiladdress{
+    text-align: center;
+    color: white;
+    font-weight: normal;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    color: dimgrey;
+    font-weight: normal;
+}
+
